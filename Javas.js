@@ -35,7 +35,7 @@ function Display(obj) {
   var thead = document.createElement('thead');
   var tr = document.createElement('tr');
   var th = document.createElement('th');
-  var surname = document.createTextNode('Фамилия');
+  var surname = document.createTextNode('Фамилия ');
   th.appendChild(surname);
   tr.appendChild(th);
   thead.appendChild(tr);
