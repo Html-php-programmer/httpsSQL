@@ -1,5 +1,6 @@
 <?php
   // require_once('headerSQL.php');
+//branch 1 изменения в ветке branch
   $host = 'localhost';
   $db = 'users';
   $userDB = 'root';
